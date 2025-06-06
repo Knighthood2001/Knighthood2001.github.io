@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="100" width="100"><rect fill="rgb(224,160,229)" x="0" y="0" width="100" height="100"></rect><text x="50" y="50" font-size="50" text-copy="fast" fill="#ffffff" text-anchor="middle" text-rights="admin" alignment-baseline="central">W</text></svg>
